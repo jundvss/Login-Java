@@ -10,8 +10,6 @@ Asegúrate de que MySQL esté ejecutándose en localhost:3306.
 
 Por defecto se utiliza el usuario root con contraseña 1234.
 
-Si necesitas cambiar las credenciales, modifica las constantes en src/util/ConexionDB.java:
-<img width="591" height="125" alt="image" src="https://github.com/user-attachments/assets/e64b7433-ae49-40f7-a3e2-652a244344bc" />
 
 
 Características
